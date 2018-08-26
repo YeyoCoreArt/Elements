@@ -1,0 +1,84 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "EarthRinno",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "",
+		"TextureID": 0,
+		"attack": 5,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 43001,
+		"copyid": 3401,
+		"desc": "",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 150,
+		"hit_height": 180,
+		"hit_thickness": 180,
+		"hit_width": 140,
+		"icon": "3401",
+		"id": 10,
+		"life": 100,
+		"model": "110031",
+		"model_scale": 1.5,
+		"name": "EarthRinno",
+		"speed": 500,
+		"team_id": 0,
+		"type": 1,
+		"view_distance": 40,
+		"width": 160 
+	},
+	"set_ai": [
+		{
+			"name": "wander",
+			"priority": 7,
+			"speed": 1 
+		},
+		{
+			"item_id": 12578,
+			"name": "logger_heads",
+			"priority": 4,
+			"speed": 0.8 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"name": "immune_fire",
+			"type": 2 
+		},
+		{
+			"block_id": 106,
+			"is_hit": true,
+			"name": "make_trouble",
+			"priority": 2,
+			"prob": 65.573770491803,
+			"search_block_dist": 1000,
+			"speed": 1.3999999761581 
+		} 
+	] 
+} 

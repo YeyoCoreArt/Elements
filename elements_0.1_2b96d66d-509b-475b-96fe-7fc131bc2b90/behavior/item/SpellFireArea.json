@@ -1,0 +1,44 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1,
+			"ChargeType": 1,
+			"Cooldown": 10,
+			"Costs": [
+				{
+					"CostTarget": 10100,
+					"CostType": 1,
+					"CostVal": 15 
+				} 
+			],
+			"Functions": [
+				{
+					"ProjectileID": 4164,
+					"SpeedAdd": 0 
+				} 
+			],
+			"SkillType": 1,
+			"TargetCamp": 2,
+			"name": "feature_throw",
+			"priority": 0,
+			"templateid": 105 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellFireArea",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#YEffect: Thrown a Flame that will burn all nerby to it. \n\n#cFF00FFChacra: -15",
+		"icon": "*11079",
+		"id": 4163,
+		"model": "*11079",
+		"name": "Molotov Breath",
+		"stack_max": 64 
+	} 
+} 

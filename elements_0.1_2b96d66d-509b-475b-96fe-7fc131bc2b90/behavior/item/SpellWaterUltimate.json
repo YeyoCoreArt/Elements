@@ -1,0 +1,44 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1,
+			"ChargeType": 1,
+			"Cooldown": 25,
+			"Costs": [
+				{
+					"CostTarget": 4216,
+					"CostType": 1,
+					"CostVal": 90 
+				} 
+			],
+			"Functions": [
+				{
+					"ProjectileID": 4154,
+					"SpeedAdd": 0 
+				} 
+			],
+			"SkillType": 1,
+			"TargetCamp": 2,
+			"name": "feature_throw",
+			"priority": 0,
+			"templateid": 105 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterUltimate",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#YEffect:Creates a storm that will frozen all enemies arround. last 10 seconds #cFF00FFChacra: -90",
+		"icon": "*11218",
+		"id": 4153,
+		"model": "*11218",
+		"name": "Blizzard #c47CFFF[Ultimate]",
+		"stack_max": 64 
+	} 
+} 

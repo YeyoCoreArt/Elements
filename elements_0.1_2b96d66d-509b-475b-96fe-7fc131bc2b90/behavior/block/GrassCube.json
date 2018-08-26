@@ -1,0 +1,31 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"desc": "Scrip to make it Modfied",
+		"describe": "Scrip to make it Modfied",
+		"icon": "*1",
+		"id": 1,
+		"model": "*1",
+		"name": "Earth Core (Modified)" 
+	},
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "GrassCube",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 500,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"english_name": "GrassCube",
+		"hardness": 200,
+		"id": 1,
+		"light_src": 8,
+		"move_collide": 1,
+		"slipperiness": 1.81,
+		"tool_mine_drop1": 0 
+	} 
+} 

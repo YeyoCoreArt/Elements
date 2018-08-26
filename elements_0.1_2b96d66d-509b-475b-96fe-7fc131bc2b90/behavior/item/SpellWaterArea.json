@@ -1,0 +1,48 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100082,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711520543573" 
+		} 
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1,
+			"ChargeType": 1,
+			"Cooldown": 15,
+			"Costs": [
+				{
+					"CostTarget": 4309,
+					"CostType": 1,
+					"CostVal": 15 
+				} 
+			],
+			"Functions": [
+				{
+					"ProjectileID": 4166,
+					"SpeedAdd": 0 
+				} 
+			],
+			"SkillType": 1,
+			"TargetCamp": 2,
+			"name": "feature_throw",
+			"priority": 0,
+			"templateid": 105 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterArea",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "YEffect: Realeases Small shards when hit ground. #\n\ncFF00FFChacra: -15",
+		"icon": "*11511",
+		"id": 4165,
+		"model": "*11511",
+		"name": "Rain of Shards",
+		"stack_max": 64 
+	} 
+} 

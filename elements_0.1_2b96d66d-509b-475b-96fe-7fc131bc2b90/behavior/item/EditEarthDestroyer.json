@@ -1,0 +1,49 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 0,
+			"Costs": [
+				{
+					"CostTarget": 4147,
+					"CostType": 1,
+					"CostVal": 0 
+				} 
+			],
+			"Functions": [
+				{
+					"ActionType": 0,
+					"BlockID": 200,
+					"DropOut": 0 
+				} 
+			],
+			"RangeType": 2,
+			"RangeVal1": 1000,
+			"RangeVal2": 1000,
+			"RangeVal3": 1000,
+			"SkillType": 1,
+			"TargetClass": 1,
+			"name": "feature_block",
+			"priority": 0,
+			"templateid": 100 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "1534211972",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Base for Create Value Items",
+		"icon": "*11025",
+		"id": 4147,
+		"model": "*11025",
+		"name": "Destroye Land",
+		"stack_max": 64 
+	} 
+} 

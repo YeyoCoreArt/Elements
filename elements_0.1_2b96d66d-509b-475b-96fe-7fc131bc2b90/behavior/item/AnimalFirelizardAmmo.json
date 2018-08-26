@@ -1,0 +1,52 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 0,
+					"BuffID": 33002,
+					"Duration": 3,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 2,
+			"name": "feature_buff_throw",
+			"priority": 0,
+			"templateid": 204 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "AnimalFirelizardAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": true,
+		"can_throw": false,
+		"copyid": 15051,
+		"describe": "Used to burn enemies with flametrower",
+		"gravity": 8,
+		"icon": "*11055",
+		"id": 4131,
+		"model": "*15056",
+		"name": "AnimalFirelizardAmmo",
+		"pickable": false,
+		"projectile_attack": 0,
+		"speed_decay": 0,
+		"speed_init": 60,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

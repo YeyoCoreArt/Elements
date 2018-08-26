@@ -1,0 +1,58 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 5,
+			"Costs": [
+				{
+					"CostTarget": 4121,
+					"CostType": 1,
+					"CostVal": 10 
+				} 
+			],
+			"Functions": [
+				{
+					"ActionType": 1,
+					"BlockID": 500,
+					"DropOut": 1 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 200,
+			"RangeVal2": 200,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetClass": 0,
+			"name": "feature_block",
+			"priority": 0,
+			"templateid": 100 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellFireMelee",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"accumulate_time": 0.5,
+		"attack": 10,
+		"attack_consume": 0,
+		"collect_consume": 0,
+		"copyid": 12005,
+		"describe": "#R+DMG: 10 (Melee)\n\n#YEffect: Burn Enemies #cFF00FF-Chacra: -10",
+		"icon": "*11061",
+		"id": 4121,
+		"model": "*11061",
+		"name": "Vulcanis Sword",
+		"tool_duration": 2000,
+		"tool_efficient": 0,
+		"tool_level": 0,
+		"tool_repare_amount1": 100,
+		"tool_repareid1": 11203,
+		"tool_type": 6 
+	} 
+} 

@@ -1,0 +1,49 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 5,
+			"Costs": [
+				{
+					"CostTarget": 4114,
+					"CostType": 1,
+					"CostVal": 15 
+				} 
+			],
+			"Functions": [
+				{
+					"ActionType": 1,
+					"BlockID": 106,
+					"DropOut": 1 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 100,
+			"RangeVal2": 200,
+			"RangeVal3": 151,
+			"SkillType": 1,
+			"TargetClass": 0,
+			"name": "feature_block",
+			"priority": 0,
+			"templateid": 100 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellEarthDefence.json",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#cFF00FF-Chacra: 15\n#YEffect: Creates a wall of blocks",
+		"icon": "*11077",
+		"id": 4114,
+		"model": "*11077",
+		"name": "Earth Sand Wall",
+		"stack_max": 64 
+	} 
+} 

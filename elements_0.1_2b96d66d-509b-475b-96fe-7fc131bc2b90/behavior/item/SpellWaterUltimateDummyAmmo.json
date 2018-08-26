@@ -1,0 +1,57 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100209,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711533309252" 
+		} 
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 0,
+					"BuffID": 45001,
+					"Duration": 3,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 2,
+			"RangeVal1": 1200,
+			"RangeVal2": 1200,
+			"RangeVal3": 1200,
+			"TargetCamp": 2,
+			"name": "feature_buff_throw",
+			"priority": 0,
+			"templateid": 204 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterUltimateDummyAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 10103,
+		"describe": "",
+		"gravity": 1,
+		"icon": "*11218",
+		"id": 4154,
+        "model": "*15057",
+        "projectile_model_rid": 12052,
+		"name": "SpellWaterUltimateDummyAmmo",
+		"pickable": false,
+		"projectile_attack": 0,
+		"speed_decay": 0,
+		"speed_init": -1,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

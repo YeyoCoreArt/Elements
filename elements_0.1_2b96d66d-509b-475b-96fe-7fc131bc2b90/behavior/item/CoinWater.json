@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "CoinWater",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Basic chacra to learn #c47CFFFWater Skills.#n Focused on #c47CFFFBalance#n",
+		"icon": "*11076",
+		"id": 4100,
+		"model": "*11076",
+		"name": "#c47CFFFWater Chacra",
+		"stack_max": 64 
+	} 
+} 

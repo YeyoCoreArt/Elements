@@ -1,0 +1,56 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100082,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711520543573" 
+		} 
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 5,
+			"Costs": [
+				{
+					"CostTarget": 4170,
+					"CostType": 1,
+					"CostVal": 15 
+				} 
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 20 
+				},
+				{
+					"BlowUpPower": 30,
+					"RepelPower": 500 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 2,
+			"name": "feature_attack",
+			"priority": 0,
+			"templateid": 101 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellEarthArea",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#YEffect: Move and damage enemies in area. \n#cFF00FFChacra: -15",
+		"icon": "*11000",
+		"id": 4170,
+		"model": "*11000",
+		"name": "IronFist",
+		"stack_max": 64 
+	} 
+} 

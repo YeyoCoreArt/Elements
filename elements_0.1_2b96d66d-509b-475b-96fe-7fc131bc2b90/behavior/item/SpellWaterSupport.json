@@ -1,0 +1,48 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 5,
+			"Costs": [
+				{
+					"CostTarget": 4127,
+					"CostType": 1,
+					"CostVal": 0 
+				} 
+			],
+			"Functions": [
+				{
+					"TreatType": 0,
+					"TreatVal": 30 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 500,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 1,
+			"name": "feature_cure",
+			"priority": 0,
+			"templateid": 106 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterSupport",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#cFF00FFChacra: -10\n#YEffect: Heals Allies in fron of you.\n",
+		"icon": "*12716",
+		"id": 4127,
+		"model": "*12716",
+		"name": "Healing Water",
+		"stack_max": 64 
+	} 
+} 

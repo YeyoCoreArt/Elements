@@ -1,0 +1,49 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"BlowUpPower": 20,
+					"RepelPower": 80 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 2,
+			"name": "feature_attack_fly_throw",
+			"priority": 0,
+			"templateid": 202 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellEarthBallAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 12282,
+		"describe": "",
+		"gravity": 3,
+		"icon": "*11304",
+		"id": 4112,
+		"model": "*15060",
+		"name": "Ammo RockMi",
+		"pickable": false,
+		"projectile_attack": 10,
+		"speed_decay": 0,
+		"speed_init": 280,
+		"stack_max": 62,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "CoinChacra",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Craft to Choose your #cFF00FF Elemental Chacra#n",
+		"icon": "*11219",
+		"id": 4098,
+		"model": "*11219",
+		"name": "#cFF00FFChacra Chooser",
+		"stack_max": 64 
+	} 
+} 

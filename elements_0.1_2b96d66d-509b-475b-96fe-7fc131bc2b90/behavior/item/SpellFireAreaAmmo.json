@@ -1,0 +1,71 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"AttackType": 3,
+					"AttackVal": 0,
+					"BuffID": 33001,
+					"Duration": 5,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 2,
+			"RangeVal1": 400,
+			"RangeVal2": 400,
+			"RangeVal3": 200,
+			"TargetCamp": 0,
+			"name": "feature_buff_throw",
+			"priority": 0,
+			"templateid": 204 
+		},
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"ActionType": 1,
+					"BlockID": 500,
+					"DropOut": 1 
+				} 
+			],
+			"RangeType": 2,
+			"RangeVal1": 100,
+			"RangeVal2": 100,
+			"RangeVal3": 100,
+			"TargetClass": 0,
+			"name": "feature_block_throw",
+			"priority": 0,
+			"templateid": 200 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellFireAreaAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 15052,
+		"describe": "",
+		"gravity": 8,
+		"icon": "*11079",
+		"id": 4164,
+		"model": "*15052",
+		"name": "SpellFireAreaAmmo",
+		"pickable": false,
+		"projectile_attack": 0,
+		"speed_decay": 0,
+		"speed_init": 150,
+		"stack_max": 64,
+		"trigger_condition": 2,
+		"trigger_delay": 0 
+	} 
+} 

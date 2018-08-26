@@ -1,0 +1,49 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.3999999761581,
+			"ChargeType": 2,
+			"Cooldown": 30,
+			"Costs": [
+				{
+					"CostTarget": 4148,
+					"CostType": 1,
+					"CostVal": 90 
+				} 
+			],
+			"Functions": [
+				{
+					"ActionType": 1,
+					"BlockID": 106,
+					"DropOut": 1 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 500,
+			"RangeVal2": 500,
+			"RangeVal3": 400,
+			"SkillType": 1,
+			"TargetClass": 0,
+			"name": "feature_block",
+			"priority": 0,
+			"templateid": 100 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellEarthUltimate",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#cFF00FFChacra: -90    #YEffect: Cover enemies into a big tomb made by sand.",
+		"icon": "*11210",
+		"id": 4148,
+		"model": "*11210",
+		"name": "Sand Tomb #G[Ultimate]",
+		"stack_max": 64 
+	} 
+} 

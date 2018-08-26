@@ -1,0 +1,49 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"BlowUpPower": 0,
+					"RepelPower": 20 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 2,
+			"name": "feature_attack_fly_throw",
+			"priority": 0,
+			"templateid": 202 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterAreaAmmoDummy",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 12282,
+		"describe": "",
+		"gravity": 10,
+		"icon": "*11511",
+		"id": 4168,
+		"model": "*15062",
+		"name": "SpellWaterAreaAmmoDummy",
+		"pickable": false,
+		"projectile_attack": 15,
+		"speed_decay": 0,
+		"speed_init": 50,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

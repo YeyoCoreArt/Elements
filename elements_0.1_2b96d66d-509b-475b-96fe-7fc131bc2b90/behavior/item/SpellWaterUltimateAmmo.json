@@ -1,0 +1,51 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"CallNum": 1,
+					"Duration": 10,
+					"IsFollow": 0,
+					"MobID": 13 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 1,
+			"name": "feature_call_monster_throw",
+			"priority": 0,
+			"templateid": 203 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterUltimateAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 12054,
+		"describe": "",
+		"gravity": 8,
+		"icon": "*11218",
+		"id": 4153,
+		"model": "*15067",
+		"name": "SpellWaterUltimateAmmo",
+		"pickable": false,
+		"projectile_attack": 0,
+		"speed_decay": 0,
+		"speed_init": 150,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

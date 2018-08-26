@@ -1,0 +1,78 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100230,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711534214335" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "FireLizard",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "31301",
+		"TextureID": 0,
+		"attack": 0,
+		"attack_distance": 7,
+		"attack_type": 1,
+		"buff_id": 33001,
+		"copyid": 3107,
+		"desc": "Slow but deadly creature that fires fireb.\b pretty fast",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 280,
+		"hit_height": 300,
+		"hit_thickness": 300,
+		"hit_width": 200,
+		"icon": "3413",
+		"id": 9,
+		"life": 40,
+		"model": "@100008",
+		"model_scale": 0.2,
+		"name": "FireLizard",
+		"speed": 300,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 20,
+		"width": 160 
+	},
+	"set_ai": [
+		{
+			"name": "wander",
+			"priority": 4,
+			"speed": 0.8 
+		},
+		{
+			"atkrange": 1500,
+			"buffid": 0,
+			"count": 3,
+			"max_atktime": 0.5,
+			"min_atktime": 0.5,
+			"name": "projectile_attack",
+			"power": 1,
+			"priority": 2,
+			"projectileid": 4137,
+			"speed": 1 
+		},
+        {
+			"name": "immune_fire",
+			"type": 2 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		} 
+	] 
+} 

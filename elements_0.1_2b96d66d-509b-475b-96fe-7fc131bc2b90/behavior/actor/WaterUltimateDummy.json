@@ -1,0 +1,75 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100222,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711533609310" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "WaterUltimateDummy",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+        "texture":"dummy",
+		"Effect": "35011",
+		"TextureID": 0,
+		"attack": 0,
+		"attack_distance": 13,
+		"attack_type": 1,
+		"buff_id": 0,
+		"copyid": 4000,
+		"desc": "Slow down all enemies in the area",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 50,
+		"hit_height": 60,
+		"hit_thickness": 30,
+		"hit_width": 30,
+		"icon": "3107",
+		"id": 13,
+		"life": 9999,
+		"mass": 999999,
+		"model": "100037",
+		"model_scale": 6,
+		"name": "WaterUltimateDummy",
+		"speed": 0,
+		"team_id": 0,
+		"type":50,
+		"view_distance": 12,
+		"width": 15,
+        "armor_explode":999,
+        "armor_range":999,
+        "armor_punch":999,
+	},
+	"set_ai": [
+		{
+			"atkrange": 1200,
+			"buffid": 0,
+			"count": 1,
+			"max_atktime": 10,
+			"min_atktime": 10,
+			"name": "projectile_attack",
+			"power": 1,
+			"priority": 2,
+			"projectileid": 4155,
+			"speed": 1 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": false,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		} 
+	] 
+} 
+

@@ -1,0 +1,76 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "1532102496",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "",
+		"TextureID": 0,
+		"attack": 1,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 0,
+		"copyid": 4000,
+		"desc": "",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 80,
+		"hit_height": 100,
+		"hit_thickness": 80,
+		"hit_width": 80,
+		"icon": "3117",
+		"id": 11,
+		"life": 5,
+		"model": "100029",
+		"model_scale": 0.5,
+		"name": "Pirana",
+		"speed": 600,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 20,
+		"width": 60 
+	},
+	"set_ai": [
+		{
+			"name": "wander",
+			"priority": 5,
+			"speed": 1 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"max_range": 600,
+			"min_range": 100,
+			"motion_y": 40,
+			"name": "leap_at_target",
+			"priority": 2 
+		} 
+	] 
+} 

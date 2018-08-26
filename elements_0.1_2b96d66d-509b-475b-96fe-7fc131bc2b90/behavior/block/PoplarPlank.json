@@ -1,0 +1,31 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"desc": "Can be made into a toolbox (to make more items)",
+		"describe": "Can be made into a toolbox (to make more items)",
+		"icon": "*1001",
+		"id": 511,
+		"model": "",
+		"name": "Stone Step modified" 
+	},
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "PoplarPlank",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 500,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"english_name": "PoplarPlank",
+		"hardness": 200,
+		"id": 511,
+		"light_src": 0,
+		"move_collide": 2,
+		"slipperiness": 1,
+		"tool_mine_drop1": 0 
+	} 
+} 

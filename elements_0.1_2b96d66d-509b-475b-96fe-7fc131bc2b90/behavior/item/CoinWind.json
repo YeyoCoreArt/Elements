@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "CoinWind",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Basic chacra to learn #cC858FFWater Skills.#n Focused on #cC858FFMovement",
+		"icon": "*11074",
+		"id": 4102,
+		"model": "*11074",
+		"name": "#cC858FFWind Chacra",
+		"stack_max": 64 
+	} 
+} 

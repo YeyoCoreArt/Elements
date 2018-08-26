@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "CoinFire",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Basic chacra to learn #cFF8000Fire Skills.#n Focused on dealing #cFF8000damage",
+		"icon": "*11073",
+		"id": 4099,
+		"model": "*11073",
+		"name": "#cFF8000Fire Chacra",
+		"stack_max": 64 
+	} 
+} 

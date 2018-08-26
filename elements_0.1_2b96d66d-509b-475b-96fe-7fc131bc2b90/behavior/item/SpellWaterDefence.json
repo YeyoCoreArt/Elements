@@ -1,0 +1,51 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 7,
+			"Costs": [
+				{
+					"CostTarget": 4116,
+					"CostType": 1,
+					"CostVal": 15 
+				} 
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 0,
+					"BuffID": 45001,
+					"Duration": 3,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 2,
+			"RangeVal1": 500,
+			"RangeVal2": 500,
+			"RangeVal3": 500,
+			"SkillType": 1,
+			"TargetCamp": 2,
+			"name": "feature_buff",
+			"priority": 0,
+			"templateid": 104 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterDefence.json",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#cFF00FF-Chacra: 15\n#YEffect: Reduces movement speed to all units in AoE of 5",
+		"icon": "*1048",
+		"id": 4116,
+		"model": "*1048",
+		"name": "Cold Steam",
+		"stack_max": 64 
+	} 
+} 

@@ -1,0 +1,40 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100228,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711534211972" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "1534728783",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 1000,
+		"id": 1023,
+		"is_followme": true,
+		"material_count1": 1,
+		"material_count2": 0,
+		"material_count3": 0,
+		"material_count4": 0,
+		"material_count5": 0,
+		"material_count6": 0,
+		"material_count7": 0,
+		"material_count8": 0,
+		"material_count9": 0,
+		"material_id1": 4103,
+		"material_id2": 0,
+		"material_id3": 0,
+		"material_id4": 0,
+		"material_id5": 0,
+		"material_id6": 0,
+		"material_id7": 0,
+		"material_id8": 0,
+		"material_id9": 0,
+		"result_count": 1,
+		"result_id": 4128,
+		"type": 0 
+	} 
+} 

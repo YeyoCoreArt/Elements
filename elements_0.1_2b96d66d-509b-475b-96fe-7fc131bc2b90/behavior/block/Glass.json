@@ -1,0 +1,31 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"desc": "Can be synthesized into coloured glass with dyes. Can be dyed by paintball pistol or painted egg",
+		"describe": "Can be synthesized into coloured glass with dyes. Can be dyed by paintball pistol or painted egg",
+		"icon": "",
+		"id": 632,
+		"model": "",
+		"name": "Glass" 
+	},
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "Glass",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 500,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"english_name": "Glass",
+		"hardness": 200,
+		"id": 632,
+		"light_src": 0,
+		"move_collide": 1,
+		"slipperiness": 1,
+		"tool_mine_drop1": 0 
+	} 
+} 

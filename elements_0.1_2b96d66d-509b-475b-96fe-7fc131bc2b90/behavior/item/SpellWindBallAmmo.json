@@ -1,0 +1,70 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 0,
+					"BuffID": 46002,
+					"Duration": 0.3,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 2,
+			"name": "feature_buff_throw",
+			"priority": 0,
+			"templateid": 204 
+		},
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"BlowUpPower": 60,
+					"RepelPower": 50 
+				} 
+			],
+			"RangeType": 2,
+			"RangeVal1": 400,
+			"RangeVal2": 400,
+			"RangeVal3": 400,
+			"TargetCamp": 2,
+			"name": "feature_attack_fly_throw",
+			"priority": 0,
+			"templateid": 202 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWindBallAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": true,
+		"can_throw": false,
+		"copyid": 12051,
+		"describe": "",
+		"gravity": -1,
+		"icon": "*12287",
+		"id": 4110,
+		"model": "*12287",
+		"name": "Ammo WindBlowMi",
+		"pickable": false,
+		"projectile_attack": 9,
+		"speed_decay": -2,
+		"speed_init": 150,
+		"stack_max": 62,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

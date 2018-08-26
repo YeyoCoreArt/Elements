@@ -1,0 +1,71 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100213,
+			"key": "1002769323667f325c-1ff1-11e7-93ae-92361f0026711533344630" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "FireUltimateDummy1",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "",
+       "texture":"dummy",
+		"TextureID": 0,
+		"attack": 15,
+		"attack_distance": 10,
+		"attack_type": 1,
+		"buff_id": 0,
+		"copyid": 4000,
+		"desc": "",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 0,
+		"hit_height": 0,
+		"hit_thickness": 0,
+		"hit_width": 0,
+		"icon": "3415",
+		"id": 14,
+		"life": 2000,
+		"mass": 999999,
+		"model": "120003",
+		"model_scale": 0.1,
+		"name": "FireUltimateDummy1",
+		"speed": 0,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 12,
+		"width": 50 
+	},
+	"set_ai": [
+		{
+			"atkrange": 1500,
+			"buffid": 0,
+			"count": 4,
+			"max_atktime": 1,
+			"min_atktime": 1,
+			"name": "projectile_attack",
+			"power": 0.8,
+			"priority": 2,
+			"projectileid": 4159,
+			"speed": 1 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": false,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		} 
+	] 
+} 

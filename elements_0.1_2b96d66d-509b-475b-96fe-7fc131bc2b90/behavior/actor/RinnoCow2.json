@@ -1,0 +1,29 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "RinnoCow2",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+        "attack": 10,
+		"TextureID": 0,
+		"height": 180,
+		"hit_height": 220,
+		"hit_thickness": 120,
+		"hit_width": 120,
+		"icon": "3401",
+		"id": 3112,
+        "life": 150,
+		"model": "110031",
+		"model_scale": 1.5,
+		"name": "RinnoBull",
+		"view_distance": 24,
+		"width": 80,
+        "armor_explode":10,
+        "armor_range":50,
+        "armor_punch":0,
+	}, 
+} 

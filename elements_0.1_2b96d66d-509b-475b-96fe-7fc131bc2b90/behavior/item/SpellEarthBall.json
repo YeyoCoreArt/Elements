@@ -1,0 +1,44 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 1,
+			"Costs": [
+				{
+					"CostTarget": 4106,
+					"CostType": 1,
+					"CostVal": 5 
+				} 
+			],
+			"Functions": [
+				{
+					"ProjectileID": 4112,
+					"SpeedAdd": 0 
+				} 
+			],
+			"SkillType": 1,
+			"TargetCamp": 2,
+			"name": "feature_throw",
+			"priority": 0,
+			"templateid": 105 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellEarthBall",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#R+DMG: 10 (Range)\n#cFF00FF-Chacra: 5\n#YEffect: BreakBlocks, Creates Blocks",
+		"icon": "*11304",
+		"id": 4111,
+		"model": "*11304",
+		"name": "#KRock",
+		"stack_max": 64 
+	} 
+} 

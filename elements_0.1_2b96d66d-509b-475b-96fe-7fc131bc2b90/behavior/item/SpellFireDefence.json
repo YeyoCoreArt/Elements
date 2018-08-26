@@ -1,0 +1,50 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 1.5,
+			"ChargeType": 0,
+			"Cooldown": 15,
+			"Costs": [
+				{
+					"CostTarget": 4117,
+					"CostType": 1,
+					"CostVal": 15 
+				} 
+			],
+			"Functions": [
+				{
+					"CallNum": 1,
+					"Duration": 0,
+					"IsFollow": 0,
+					"MobID": 3 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 1,
+			"name": "feature_call_monster",
+			"priority": 0,
+			"templateid": 103 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellFireDefence.json",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#cFF00FF-Chacra: 15\n#YEffect: Created a LandMine, if players get close it will blown up",
+		"icon": "*11222",
+		"id": 4117,
+		"model": "*11222",
+		"name": "Lava LandMine",
+		"stack_max": 64 
+	} 
+} 

@@ -1,0 +1,31 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"desc": "Cactus can grow in it. Collecting it with a #Gshovel#n would be faster. Can be affected by gravity.",
+		"describe": "Cactus can grow in it. Collecting it with a #Gshovel#n would be faster. Can be affected by gravity.",
+		"icon": "*128",
+		"id": 106,
+		"model": "",
+		"name": "Red Sand" 
+	},
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "Sand",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 100,
+		"breakable": true,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"english_name": "Sand",
+		"hardness": 0.5,
+		"id": 106,
+		"light_src": 0,
+		"move_collide": 1,
+		"slipperiness": 1,
+		"tool_mine_drop1": 0 
+	} 
+} 

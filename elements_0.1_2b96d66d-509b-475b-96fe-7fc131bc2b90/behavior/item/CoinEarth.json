@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "CoinEarth",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Basic chacra to learn #GEarth Skills.#n focused on #GDefence",
+		"icon": "*11075",
+		"id": 4103,
+		"model": "*11075",
+		"name": "#GEarth Chacra",
+		"stack_max": 64 
+	} 
+} 

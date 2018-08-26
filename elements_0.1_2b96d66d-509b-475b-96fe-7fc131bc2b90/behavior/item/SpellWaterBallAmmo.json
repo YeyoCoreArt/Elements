@@ -1,0 +1,52 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 0,
+					"BuffID": 45001,
+					"Duration": 1.5,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 2,
+			"name": "feature_buff_throw",
+			"priority": 0,
+			"templateid": 204 
+		} 
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellWaterBallAmmo",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 12054,
+		"describe": "",
+		"gravity": 3,
+		"icon": "*11078",
+		"id": 4108,
+		"model": "*15062",
+		"name": "Ammo IceMi",
+		"pickable": false,
+		"projectile_attack": 8,
+		"speed_decay": 0,
+		"speed_init": 280,
+		"stack_max": 62,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

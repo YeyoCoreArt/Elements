@@ -1,0 +1,30 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1002769323",
+		"filename": "SpellFireUltimateAmmo3",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 15052,
+		"describe": "",
+		"gravity": 4,
+		"icon": "*12051",
+		"id": 4160,
+		"model": "*15052",
+        "projectile_model_rid": 15052,
+		"name": "SpellFireUltimateAmmo3",
+		"pickable": false,
+		"projectile_attack": 0,
+		"speed_decay": 0,
+		"speed_init": 160,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 
